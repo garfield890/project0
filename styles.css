@@ -1,0 +1,51 @@
+
+.links {
+    text-align: right;
+    color: red;
+    text-decoration: none;
+}
+
+.links a[href="googleImage.html"] {
+    margin-right: 20px;
+}
+
+.query {
+    border-radius: 20px;
+    text-align: left;
+    padding: 5px;
+    height: 50px;
+    width: 800px;
+    font-size: 30px;
+    font-family: Helvetica;
+}
+
+.box {
+    margin: auto;
+    text-align: center;
+    max-width: 800px;
+    margin-top: 100px;
+}
+
+
+.name {
+    text-align:center;
+    font-size: 64px;
+    margin-top: 300px;
+    color: blue;
+}
+
+.box input[type="submit"] {
+    background: #fff; 
+    height: 30px;
+    width: 200px;
+    text-wrap: wrap;
+    margin-top: 10px;
+    
+}
+
+.bttns {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    
+}
